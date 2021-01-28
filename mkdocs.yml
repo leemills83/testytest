@@ -1,0 +1,8 @@
+site_name: "testytest"
+site_description: "demo-app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
